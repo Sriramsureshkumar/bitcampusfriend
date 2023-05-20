@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368396767663",
+    "firebase_url": "https://campus-friend-default-rtdb.firebaseio.com",
+    "project_id": "campus-friend",
+    "storage_bucket": "campus-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368396767663:android:5a77538967158fbdd7df5a",
+        "android_client_info": {
+          "package_name": "com.blackboxindia.bit_campusfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368396767663-fmdd50e2cp0lm70f9b07anu6gtge11kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrCaHBAQBQccE-dcfeix4_Vi_tnf1s2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368396767663-fmdd50e2cp0lm70f9b07anu6gtge11kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
